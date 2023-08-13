@@ -17,4 +17,14 @@ This is a software development lab project. This is a school management system. 
 Wanna run this app ? download this ! 
 
 ## Project Demo : 
-<img src="./Screenshots/13.png" width="300" height="500" title="" /> <img src="./Screenshots/14.png" width="300" height="500" title="" />
+<img src="./S_Shots/loginschool.PNG" width="500" height="400" title="" /> <img src="./S_Shots/loading.PNG" width="500" height="400" title="" />
+
+<img src="./S_Shots/schoolhome.PNG" width="500" height="400" title="" /> <img src="./S_Shots/regschool.PNG" width="500" height="400" title="" />
+
+<img src="./S_Shots/result.PNG" width="500" height="400" title="" /> <img src="./S_Shots/fee.PNG" width="500" height="400" title="" />
+
+<img src="./S_Shots/issueschool.PNG" width="500" height="400" title="" /> <img src="./S_Shots/returnschool.PNG" width="500" height="400" title="" />
+
+<img src="./S_Shots/routine.PNG" width="500" height="400" title="" /> <img src="./S_Shots/aboutschool.PNG" width="500" height="400" title="" />
+
+
